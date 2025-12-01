@@ -1,4 +1,4 @@
-# Praktikum 8 – PHP & Database MySQL
+# Praktikum 10 – PHP OOP
 
 **Nama:** Anggriani Hermawan
 **NIM:** 312410175  
